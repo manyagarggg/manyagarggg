@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 --> 
 I'm Manya! I'm a second year Psych & CS Undergrad @ Ashoka University, India. 
 - 🔭 I’m currently working on **making psychology more accessible** with tech. 
-- 🌱 I’m learning more about **Computer Security research**. 
+- 🌱 I’m learning more about **computer security research**. 
 - 👯 I’m looking to collaborate in developing computational models and algorithms of **ToM** (Theory of Mind). 
 - 📫 Reach me at manya.garg_ug25@ashoka.edu.in 
 - 😄 Pronouns: she/ her 

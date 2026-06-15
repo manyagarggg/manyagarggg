@@ -1,19 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-
-<!--
-**manyagarggg/manyagarggg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... 
-- ⚡ Fun fact: ... 
---> 
-I'm Manya! I'm a second year Psych & CS Undergrad @ Ashoka University, India. 
-- 🔭 I’m currently working on **making psychology more accessible** with tech. 
-- 🌱 I’m learning more about **computer security research**. 
-- 👯 I’m looking to collaborate in developing computational models and algorithms of **ToM** (Theory of Mind). 
-- 📫 Reach me at manya.garg_ug25@ashoka.edu.in 
-- 😄 Pronouns: she/ her 
-
-<!-- [![Manya's GitHub stats](https://github-readme-stats.vercel.app/api?username=manyagarggg)](https://github.com/manyagarggg/github-readme-stats)-->
+I'm Manya! I'm an incoming grad student at Denmark Tech Uni. 
+- 🔭 I’m currently working on figuring out research questions that interest me in **MPC/ZKP**. 
+- 👯 I’d love to collaborate on the same! Coursework/Audits include: Cryptography, Networks, Information Security, Math, Quantum Computing. 
+- 📫 Reach me at mgmanyagarg1710@gmail.com. 
+- 😄 Pronouns: she/her. 
